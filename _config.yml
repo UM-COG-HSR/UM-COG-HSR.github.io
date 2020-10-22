@@ -14,13 +14,15 @@ author: UM-COG-HSR Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  BPCOG:
-    - Repos "web/bpcog-repos-list"
-  About Us: "aboutus"
+  Repos:
+    - BASIC: "/web/basic-repos-list"
+    - BPCOG: "/web/bpcog-repos-list"
+    - MCIDEM: "/web/mcidem-repos-list"
+    
   Resources:
     - Cog HSR Program: "https://brainhealth.med.umich.edu/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Authors` home: "https://github.com/UM-COG-HSR"
+  Author's` home: "https://github.com/UM-COG-HSR"
 
 # --- Logo --- #
 
