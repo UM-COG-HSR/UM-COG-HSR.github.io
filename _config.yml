@@ -14,12 +14,11 @@ author: UM-COG-HSR Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-   BASIC: 
+  BASIC: 
     - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md/"
-   BPCOG: 
+  BPCOG: 
     - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md/"
-    - MCIDEM: "/web/mcidem-repos-list"
-    
+    - MCIDEM: "/web/mcidem-repos-list"  
   Resources:
     - Cog HSR Program: "https://brainhealth.med.umich.edu/"
     - Learn markdown: "https://www.markdowntutorial.com/"
