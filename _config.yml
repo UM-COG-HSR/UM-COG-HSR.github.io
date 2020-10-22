@@ -15,9 +15,9 @@ author: UM-COG-HSR Team
 
 navbar-links:
    BASIC: 
-    - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md"
+    - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README"
    BPCOG: 
-    - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md"
+    - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README"
     - MCIDEM: "/web/mcidem-repos-list"
     
   Resources:
