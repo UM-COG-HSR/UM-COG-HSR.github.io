@@ -17,7 +17,7 @@ navbar-links:
   Repos:
     - BASIC: 
        - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md"
-    - BPCOG: "/web/bpcog-repos-list"
+    - BPCOG: 
        - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md"
     - MCIDEM: "/web/mcidem-repos-list"
     
