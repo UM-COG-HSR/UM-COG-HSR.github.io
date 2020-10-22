@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: UM-COG-HSR Website
+title: UM-COG-HSR Repos
 
 # Your name to show in the footer
 author: UM-COG-HSR Team
@@ -15,10 +15,10 @@ author: UM-COG-HSR Team
 
 navbar-links:
   BASIC: 
-    - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md/"
+    - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md"
   BPCOG: 
     - BP-COG_Aim1: "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md/"
-    - MCIDEM: "/web/mcidem-repos-list"  
+  MCIDEM: "/web/mcidem-repos-list"  
   Resources:
     - Cog HSR Program: "https://brainhealth.med.umich.edu/"
     - Learn markdown: "https://www.markdowntutorial.com/"
