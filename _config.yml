@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: UM-COG-HSR Repos
+title: UM-COG-HSR Resources
 
 # Your name to show in the footer
 author: UM-COG-HSR Team
@@ -14,15 +14,19 @@ author: UM-COG-HSR Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  BASIC: 
+  BASIC REPOS: 
     - BASIC-BP_Aim1 (DH): "https://github.com/UM-COG-HSR/BASIC-BP_Aim1/blob/master/README.md/"
     - MCI-DeM-BASIC-Stroke (MK): "https://github.com/UM-COG-HSR/MCI-DeM-BASIC-Stroke/blob/master/README.md/"
-  BPCOG: 
+  BPCOG REPOS: 
     - BP-COG_Aim1 (NT): "https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md/"
     - BP-COG_Aim2_Dementia (NT): "https://github.com/UM-COG-HSR/BP-COG_Aim2_Dementia/blob/master/README.md/"
     - BP-COG_Data_Freeze_EventFile (RW): "https://github.com/UM-COG-HSR/BP-COG_Data_Freeze_EventFile/blob/master/README.md/"
     - BP-COG_Data_Freeze_MasterFile (RW): "https://github.com/UM-COG-HSR/BP-COG_Data_Freeze_MasterFile/blob/master/README.md"
-  MCIDEM: "/web/mcidem-repos-list"
+  MCIDEM REPOS: 
+    - MCI-DeM_Aim2_Study3: "https://github.com/UM-COG-HSR/MCI-DeM_Aim2_Study3/blob/master/README.md/"
+    - MCI-DeM_Aim2_Study4: "https://github.com/UM-COG-HSR/MCI-DeM_Aim2_Study4/blob/master/README.md/"
+    - MCI-DeM_NIH_RPPR: "https://github.com/UM-COG-HSR/MCI-DeM_NIH_RPPR/blob/master/README.md/"
+
   Guides:
     - HSR Guidelines: "https://github.com/UM-COG-HSR/HSR-guidelines/"
   Resources:
