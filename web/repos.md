@@ -11,9 +11,9 @@ title: Repositories
 ## BPCOG Repos
 
 * [BP-COG_Aim1 (NT)](https://github.com/UM-COG-HSR/BP-COG_Aim1/blob/master/README.md)
-* [BP-COG_Aim2_Dementia (NT)](https://github.com/UM-COG-HSR/BP-COG_Aim2_Dementia)
-* [BP-COG_Data_Freeze_EventFile](https://github.com/UM-COG-HSR/BP-COG_Data_Freeze_EventFile)
-* [BP-COG_Data_Freeze_MasterFile](https://github.com/UM-COG-HSR/BP-COG_Data_Freeze_MasterFile)
+* [BP-COG_Aim2_Dementia (NT)](https://github.com/UM-COG-HSR/BP-COG_Aim2_Dementia/blob/master/README.md)
+* [BP-COG_Data_Freeze_EventFile (RW)](https://github.com/UM-COG-HSR/BP-COG_Data_Freeze_EventFile/blob/master/README.md)
+* [BP-COG_Data_Freeze_MasterFile (RW)](https://github.com/UM-COG-HSR/BP-COG_Data_Freeze_MasterFile/blob/master/README.md)
 
 ##  MCIDEM Repos
 
