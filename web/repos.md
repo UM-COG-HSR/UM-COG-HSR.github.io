@@ -16,6 +16,6 @@ title: Repositories
 * [BP-COG_Data_Freeze_MasterFile](https://github.com/UM-COG-HSR/BP-COG_Data_Freeze_MasterFile)
 
 ##  MCIDEM Repos 
-    * [MCI-DeM_Aim2_Study3 (RW)]("https://github.com/UM-COG-HSR/MCI-DeM_Aim2_Study3/blob/master/README.md/)
-    * [MCI-DeM_Aim2_Study4 (RW)]("https://github.com/UM-COG-HSR/MCI-DeM_Aim2_Study4/blob/master/README.md/)
-    * [MCI-DeM_NIH_RPPR (RW)]("https://github.com/UM-COG-HSR/MCI-DeM_NIH_RPPR/blob/master/README.md/")
+    * [MCI-DeM_Aim2_Study3 (RW)](https://github.com/UM-COG-HSR/MCI-DeM_Aim2_Study3/blob/master/README.md/)
+    * [MCI-DeM_Aim2_Study4 (RW)](https://github.com/UM-COG-HSR/MCI-DeM_Aim2_Study4/blob/master/README.md/)
+    * [MCI-DeM_NIH_RPPR (RW)](https://github.com/UM-COG-HSR/MCI-DeM_NIH_RPPR/blob/master/README.md/)
