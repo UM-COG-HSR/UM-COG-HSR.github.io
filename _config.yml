@@ -14,7 +14,7 @@ author: UM-COG-HSR Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  REPOS: "/web/repos"
+  REPOS: "https://github.com/UM-COG-HSR/admin/web/blob/master/repos-list.md"
   GUIDES: "/web/guides"     
   Teams's home: "https://github.com/UM-COG-HSR/"
 
