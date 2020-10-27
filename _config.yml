@@ -15,8 +15,9 @@ author: UM-COG-HSR Team
 
 navbar-links:
   REPOS: "/admin/repos-list"
-  Resources: "https://github.com/UM-COG-HSR/Resources/blob/main/README.md"     
-  Teams's home: "https://github.com/UM-COG-HSR/"
+#  Resources: "https://github.com/UM-COG-HSR/Resources/blob/main/README.md"     
+  Resourcesx: "../Resources/README"     
+  Team's home: "https://github.com/UM-COG-HSR/"
 
 # --- Logo --- #
 
